@@ -2,6 +2,6 @@
 
 int main(){
 	cout <<"Hola mundo" << endl;
-	cout << "2ez";
+	cout << "2do push";
 	return 0;
 }
